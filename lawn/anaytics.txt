@@ -1,0 +1,1719 @@
+
+
+2014-12-17 07:25:03 == 0.22203300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 07:25:03 == 0.26099900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 07:25:03 == 0.27159000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 07:25:03 == 0.82507400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 07:25:03 == 0.86147200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 07:25:03 == 0.87247400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 11:55:34 == 0.06152200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 11:55:34 == 0.09676200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 11:55:34 == 0.10589700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 11:55:34 == 0.42147700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 11:55:34 == 0.45779700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 11:55:34 == 0.47100800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 11:56:43 == 0.53211800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 11:56:43 == 0.57490900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 11:56:43 == 0.58940400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:09:21 == 0.09122600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:09:21 == 0.13554900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:09:40 == 0.57130300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:09:40 == 0.61233200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:09:52 == 0.37899300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:09:52 == 0.50189400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:11:08 == 0.11451000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:11:08 == 0.16341100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:11:21 == 0.88160400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:11:21 == 0.92812300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:11:39 == 0.10064500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:13:15 == 0.02340800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:13:15 == 0.06817100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:26:20 == 0.80715300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:26:20 == 0.86860400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:28:21 == 0.08638700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:28:21 == 0.13523500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:28:21 == 0.17018100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:28:45 == 0.42002600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:28:45 == 0.46184000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:28:45 == 0.47944200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:28:59 == 0.79518500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:28:59 == 0.84590600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:28:59 == 0.86607800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:29:07 == 0.14642200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:29:07 == 0.19215000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:29:07 == 0.21490600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:29:08 == 0.15426800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:29:08 == 0.20191200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:29:08 == 0.22245100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:29:08 == 0.98381600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:29:09 == 0.03111000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:29:09 == 0.05103700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:29:16 == 0.15218000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:29:16 == 0.19863000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:29:16 == 0.21916300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:12 == 0.26555900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:30:12 == 0.31395500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:12 == 0.33395400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:13 == 0.55834600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:30:13 == 0.60384100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:13 == 0.62272100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:21 == 0.83231100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:30:21 == 0.87987800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:21 == 0.89800700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:22 == 0.82918100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:30:22 == 0.87581900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:22 == 0.89746300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:33 == 0.88141500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:30:33 == 0.92685600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:30:33 == 0.94608900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:31:02 == 0.55268400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:31:02 == 0.59721100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:31:02 == 0.61305900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:31:11 == 0.76614800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:31:11 == 0.80964100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:31:11 == 0.82738100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:31:12 == 0.75803900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:31:12 == 0.80483600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:31:12 == 0.82206300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:31:19 == 0.65229200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:31:19 == 0.69591200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:31:19 == 0.71335400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:41:31 == 0.26299700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:41:31 == 0.30844700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:41:31 == 0.32490900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:41:41 == 0.57402100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:41:41 == 0.61788000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:41:41 == 0.63101300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:41:49 == 0.73895300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:41:49 == 0.78332300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:41:49 == 0.79921000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:41:50 == 0.39301800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:41:50 == 0.43587700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:41:50 == 0.45179000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:42:43 == 0.78346600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:42:43 == 0.82920900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:42:43 == 0.84582800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:42:52 == 0.51797500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:42:52 == 0.56619700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:42:52 == 0.58252100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:42:53 == 0.47770300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:42:53 == 0.52471600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:42:53 == 0.54102600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:43:02 == 0.32490000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:43:02 == 0.37009100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:43:02 == 0.38637800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:48:28 == 0.13604200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:48:28 == 0.18071100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:48:56 == 0.49817700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:48:56 == 0.54471000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 12:51:08 == 0.48268900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 12:51:08 == 0.53220400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 13:58:59 == 0.90902200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 13:59:00 == 0.07354400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 13:59:31 == 0.64837500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 13:59:31 == 0.69283800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 14:03:52 == 0.40232500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 14:03:52 == 0.44974300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 14:07:20 == 0.02847100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 14:07:20 == 0.07527900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 14:08:57 == 0.11507000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 14:08:57 == 0.19497800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 14:12:53 == 0.38912500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 14:12:53 == 0.44991700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 14:21:06 == 0.86799100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 14:21:06 == 0.91674700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 14:24:58 == 0.86329000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 14:24:58 == 0.91901500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 14:30:31 == 0.28928800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 14:30:31 == 0.33848900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 14:59:17 == 0.09228800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 14:59:17 == 0.17576400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:00:29 == 0.27119200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:00:39 == 0.33503800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:00:54 == 0.13659600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:01:29 == 0.29333400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:01:31 == 0.82776300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:04:07 == 0.00163700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:04:09 == 0.47204000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:05:38 == 0.90128100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:05:40 == 0.22343500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:05:51 == 0.18570000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:09:39 == 0.00101900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:09:58 == 0.78080900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:10:00 == 0.04228500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:10:06 == 0.22163500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:10:06 == 0.26272800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:10:42 == 0.53975200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:10:42 == 0.58168400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:10:42 == 0.61278800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:10:50 == 0.85959800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:10:50 == 0.89972400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:10:50 == 0.91743000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:10:51 == 0.83270200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:10:51 == 0.87700500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:10:51 == 0.89650100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:11:04 == 0.55766700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:11:04 == 0.60151800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:11:04 == 0.62179400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:11:13 == 0.43380900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:11:13 == 0.47963700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:11:13 == 0.49685800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:05 == 0.62505900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:05 == 0.67931600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:05 == 0.71068700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:07 == 0.19530500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:07 == 0.24706900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:07 == 0.26699500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:15 == 0.56536500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:15 == 0.61816500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:15 == 0.63940400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:16 == 0.95551300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:16 == 0.00306500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:17 == 0.01584700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:18 == 0.42928400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:18 == 0.47828000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:18 == 0.49800300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:25 == 0.40312500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:25 == 0.45411300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:25 == 0.47377300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:27 == 0.17681800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:27 == 0.22879800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:27 == 0.24907300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:28 == 0.37800500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:28 == 0.42930800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:28 == 0.44914400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:37 == 0.22677600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:37 == 0.27609400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:37 == 0.29862400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:38 == 0.37705300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:13:38 == 0.40514200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:13:38 == 0.42143500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:03 == 0.87064400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:03 == 0.95107100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:03 == 0.99382400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:14 == 0.31216500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:14 == 0.38534900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:14 == 0.41596800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:15 == 0.44003100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:15 == 0.50838800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:15 == 0.52854100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:20 == 0.78989600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:20 == 0.84285300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:20 == 0.86288400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:22 == 0.03020700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:22 == 0.10200700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:22 == 0.11836400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:23 == 0.53160100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:23 == 0.60570100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:23 == 0.63664300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:25 == 0.14935900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:25 == 0.21858900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:25 == 0.23796400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:26 == 0.73481100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:26 == 0.80986400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:26 == 0.84076100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:28 == 0.16023800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:28 == 0.23209000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:28 == 0.26275200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:29 == 0.94779500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:30 == 0.02181300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:30 == 0.05108900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:31 == 0.47141600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:31 == 0.54867600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:31 == 0.57884300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:33 == 0.02336600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:33 == 0.09858100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:33 == 0.12087000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:34 == 0.72087800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:34 == 0.79383300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:34 == 0.82482000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:36 == 0.19169600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:36 == 0.26500600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:36 == 0.29501200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:49 == 0.23304000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:18:49 == 0.30378400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:18:49 == 0.33595200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:20:56 == 0.95137100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:20:56 == 0.00107900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:20:57 == 0.02129700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:04 == 0.49722700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:04 == 0.55034100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:04 == 0.57095200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:05 == 0.46878700 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:05 == 0.51681300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:05 == 0.53612200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:06 == 0.17374900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:06 == 0.22114500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:06 == 0.24125100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:06 == 0.86247400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:06 == 0.91053200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:06 == 0.92920200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:07 == 0.48573600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:07 == 0.53392100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:07 == 0.55433100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:08 == 0.15686100 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:08 == 0.20549500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:08 == 0.22485300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:32 == 0.12978300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:32 == 0.17399500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:32 == 0.18899200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:34 == 0.83650400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:34 == 0.87847400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:34 == 0.89173000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:42 == 0.46088800 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:42 == 0.49690800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:42 == 0.50888300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:43 == 0.53208900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:43 == 0.57702600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:43 == 0.58934600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:45 == 0.40392000 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:21:45 == 0.45317500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:21:45 == 0.47315000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:22:18 == 0.78646900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 15:22:18 == 0.83294500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 15:22:18 == 0.85389700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:06:33 == 0.27264400 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 16:06:33 == 0.32178900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:06:33 == 0.34175100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:06:58 == 0.09128500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 16:06:58 == 0.13846200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:06:58 == 0.15728600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:06:59 == 0.22485200 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 16:06:59 == 0.26912600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:06:59 == 0.28645000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:07:00 == 0.19840500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 16:07:00 == 0.24608100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:07:00 == 0.26394900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:07:01 == 0.24248500 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 16:07:01 == 0.29115700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:07:01 == 0.30902400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:07:08 == 0.47542900 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 16:07:08 == 0.52269900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:07:08 == 0.54229100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:07:09 == 0.81780300 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 16:07:09 == 0.86320000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:07:09 == 0.88128400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:10:53 == 0.99300600 == Entering {"Controller":null,"Action":null}
+
+2014-12-17 16:10:54 == 0.11439800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-17 16:10:54 == 0.15520400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 10:09:52 == 0.57498000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:09:52 == 0.75811700 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:09:52 == 0.79663000 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:19 == 0.02491600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:19 == 0.08461100 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:19 == 0.11027300 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:27 == 0.88635300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:27 == 0.94877300 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:27 == 0.97694600 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:28 == 0.89134400 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:28 == 0.95734200 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:28 == 0.98234200 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:35 == 0.37083500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:35 == 0.43501400 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:35 == 0.46106900 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:36 == 0.36055200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:36 == 0.42346200 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:36 == 0.44887000 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:37 == 0.32393800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:37 == 0.38458200 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:37 == 0.39855700 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:41 == 0.76893000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:41 == 0.83231900 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:41 == 0.85806400 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:47 == 0.03172300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:47 == 0.09578400 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:47 == 0.12271700 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:48 == 0.19416900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:48 == 0.25805100 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:48 == 0.28484400 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:50 == 0.99657300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:51 == 0.06114400 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:51 == 0.08419700 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:53 == 0.57141200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:53 == 0.63385500 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:53 == 0.65998500 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:55 == 0.08949200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:55 == 0.15176800 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:55 == 0.17660800 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:58 == 0.45375800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:58 == 0.50427500 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:58 == 0.52007900 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:59 == 0.55453200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 10:10:59 == 0.60574100 == Post Constructor {"Controller":"user","Action":"index"}
+
+2014-12-18 10:10:59 == 0.62154500 == Leaving {"Controller":"user","Action":"index"}
+
+2014-12-18 14:59:53 == 0.72081600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 14:59:53 == 0.97918400 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 14:59:54 == 0.04399400 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:00:02 == 0.69694100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:00:02 == 0.74358700 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:00:02 == 0.79303600 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:03:51 == 0.17234900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:03:51 == 0.21610300 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:04:19 == 0.92725800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:04:19 == 0.97174900 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:04:19 == 0.99211100 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:06:10 == 0.59884700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:06:10 == 0.64258500 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:06:10 == 0.65373600 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:06:20 == 0.13011000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:06:20 == 0.16084700 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:06:20 == 0.17283600 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:07:24 == 0.15340600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:07:24 == 0.19784800 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:07:24 == 0.21743300 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:10:21 == 0.94403000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:10:22 == 0.06420900 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:10:22 == 0.09944900 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:12:07 == 0.85211200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:12:07 == 0.89085800 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:12:07 == 0.90389900 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:12:20 == 0.15291600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:12:20 == 0.19735900 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:12:20 == 0.21486500 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:13:42 == 0.47969200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:13:42 == 0.51086400 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:13:42 == 0.52398900 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:13:58 == 0.15131200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:13:58 == 0.17881700 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:13:58 == 0.19316600 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:15:18 == 0.96809100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:15:19 == 0.01188800 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:15:19 == 0.03236200 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:15:24 == 0.95976900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:15:24 == 0.00219300 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:15:25 == 0.02232700 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:15:52 == 0.41999900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:15:52 == 0.46467500 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:15:52 == 0.47815400 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:17:40 == 0.51205700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:17:40 == 0.63122200 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:17:40 == 0.66457400 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:17:41 == 0.31728100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:17:41 == 0.36447200 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:17:41 == 0.38350100 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 15:33:00 == 0.51354100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:00 == 0.62960900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:00 == 0.70511100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:07 == 0.81050600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:07 == 0.85092900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:07 == 0.86914000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:08 == 0.74946600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:08 == 0.79249100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:08 == 0.80871700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:11 == 0.63305300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:11 == 0.67623300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:11 == 0.68635700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:14 == 0.19274500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:14 == 0.23352900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:14 == 0.25158600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:15 == 0.05892400 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:15 == 0.10012900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:15 == 0.11739600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:27 == 0.04356800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:27 == 0.08388300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:27 == 0.10116000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:31 == 0.17001200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:31 == 0.21183800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:31 == 0.23128200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:34 == 0.18916200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:34 == 0.23074100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:34 == 0.24742900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:35 == 0.39549500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:35 == 0.43676100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:35 == 0.45318100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:36 == 0.25574600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:36 == 0.29600200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:36 == 0.31243000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:37 == 0.43694500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:37 == 0.47880600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:37 == 0.49665500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:38 == 0.17910500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:38 == 0.22124100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:38 == 0.23894100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:38 == 0.68354600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:38 == 0.72422300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:38 == 0.74077800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:39 == 0.05739600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:39 == 0.09910000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:39 == 0.11668600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:39 == 0.53118600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:39 == 0.56967900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:39 == 0.58572800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:40 == 0.03341300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:40 == 0.07420300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:40 == 0.09176600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:40 == 0.51478600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:40 == 0.55537400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:40 == 0.57192200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:40 == 0.99150200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:41 == 0.03330500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:41 == 0.04946800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:41 == 0.43491000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:41 == 0.47683700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:41 == 0.49495100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:41 == 0.91518600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:41 == 0.95757300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:41 == 0.97420000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:42 == 0.33949300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:42 == 0.38292200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:42 == 0.39658700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:42 == 0.79138200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:42 == 0.81759400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:42 == 0.82876100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:43 == 0.27054700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:43 == 0.31124500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:43 == 0.32775400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:43 == 0.67703700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:43 == 0.71712000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:43 == 0.73330500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:44 == 0.15370900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:44 == 0.19220000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:44 == 0.20360300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:44 == 0.65442600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:44 == 0.69521900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:44 == 0.71146500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:45 == 0.11848500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:45 == 0.16183700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:45 == 0.18291500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:45 == 0.57185200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:45 == 0.61086400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:45 == 0.62201100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:46 == 0.04984500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:46 == 0.07245000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:46 == 0.08341500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:46 == 0.46223600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:46 == 0.49285600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:46 == 0.50553800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:46 == 0.93271700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:47 == 0.37256700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:47 == 0.59099800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:47 == 0.17559900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:47 == 0.66220200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.67080200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.67285500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.67834400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.68511600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.69078500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.69609300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.69650500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.77429200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:47 == 0.79655900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.80502100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.95536300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:47 == 0.97776300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:47 == 0.98763100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:48 == 0.46021800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:48 == 0.50507500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:48 == 0.52374200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:48 == 0.89625700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:48 == 0.93909000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:48 == 0.95618600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:49 == 0.30010600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:49 == 0.34259600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:49 == 0.36092700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:49 == 0.69218800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:49 == 0.73366900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:49 == 0.75041400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:50 == 0.12427700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:50 == 0.16674200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:50 == 0.18317600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:50 == 0.59583900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:50 == 0.64057600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:50 == 0.65796200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:51 == 0.04028800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:51 == 0.08438800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:51 == 0.10278800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:51 == 0.50156300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:51 == 0.54330300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:51 == 0.56353100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:51 == 0.92964000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:51 == 0.97172800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:51 == 0.98852800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:52 == 0.42698600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:52 == 0.46776900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:52 == 0.48450700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:52 == 0.89617800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:52 == 0.93905000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:52 == 0.95630700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:53 == 0.37273700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:53 == 0.41490000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:53 == 0.43268400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:53 == 0.79821800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:53 == 0.84120300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:53 == 0.85930900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:54 == 0.34301300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:54 == 0.38523800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:54 == 0.40325400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:54 == 0.77915000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:54 == 0.82147600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:54 == 0.83948800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:55 == 0.21598300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:55 == 0.25908300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:55 == 0.27682000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:55 == 0.73363000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:55 == 0.77499700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:55 == 0.79372300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:56 == 0.14108900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:56 == 0.18346900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:56 == 0.20258600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:56 == 0.58140700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:56 == 0.62316700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:56 == 0.64050700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:57 == 0.05665800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:33:57 == 0.09997000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:33:57 == 0.12026500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:15 == 0.23816800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:15 == 0.28103300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:15 == 0.30019500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:16 == 0.73334800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:16 == 0.77241400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:16 == 0.79020200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:17 == 0.45506800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:17 == 0.49483000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:17 == 0.51424000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:18 == 0.32206600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:18 == 0.36321500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:18 == 0.37989100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:19 == 0.38790900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:19 == 0.43063600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:19 == 0.44731200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:20 == 0.43681200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:20 == 0.48024200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:20 == 0.49713200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:21 == 0.43765300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:21 == 0.47969900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:21 == 0.49651900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:22 == 0.35496400 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:22 == 0.39821800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:22 == 0.41577500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:23 == 0.37554000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:23 == 0.42300400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:23 == 0.44147500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:24 == 0.14895300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:24 == 0.19072900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:24 == 0.20952000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:24 == 0.99447800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:25 == 0.03588300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:25 == 0.05417800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:26 == 0.14859200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:26 == 0.19070900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:26 == 0.20543700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:27 == 0.20976400 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:27 == 0.25475700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:27 == 0.27186100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:28 == 0.19987000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:28 == 0.24080600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:28 == 0.25796800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:30 == 0.06877400 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:30 == 0.11360800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:30 == 0.13147400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:30 == 0.96689400 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:30 == 0.00772000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:31 == 0.02024600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:31 == 0.30113700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:31 == 0.34490800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:31 == 0.36311200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:31 == 0.54143600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:31 == 0.56457300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:31 == 0.57395800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:31 == 0.79089900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:31 == 0.81266100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:31 == 0.82169800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:32 == 0.08574500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:32 == 0.12978800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:32 == 0.14820600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:32 == 0.33675400 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:32 == 0.38145500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:32 == 0.40093800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:32 == 0.56417700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:32 == 0.60766000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:32 == 0.62470600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:32 == 0.80140900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:32 == 0.84195600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:32 == 0.86260000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:34 == 0.48133900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:34 == 0.52456300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:34 == 0.54185400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:35 == 0.33460100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:35 == 0.38101700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:35 == 0.40122500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:39 == 0.92355100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:39 == 0.96394900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:39 == 0.98319700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:40 == 0.96508800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:40 == 0.00694200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:41 == 0.02379400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:41 == 0.58008700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:41 == 0.62031800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:41 == 0.63711700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:42 == 0.14318700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:42 == 0.18607300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:42 == 0.20308400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:42 == 0.65420200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:42 == 0.69425800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:42 == 0.71099700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:43 == 0.30105100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:43 == 0.34694600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:43 == 0.36522000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:43 == 0.81026700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:43 == 0.85252600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:43 == 0.86936800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:44 == 0.34132500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:44 == 0.38340100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:44 == 0.40218200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:44 == 0.86252000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:44 == 0.90515400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:44 == 0.92207200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:45 == 0.35294700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:45 == 0.39484600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:45 == 0.41254800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:45 == 0.85851900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:45 == 0.90229900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:45 == 0.92189400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:46 == 0.38060200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:46 == 0.42210600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:46 == 0.43896200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:46 == 0.96055200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:46 == 0.00290200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:47 == 0.01721200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:47 == 0.47551400 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:47 == 0.51777700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:47 == 0.53516000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:48 == 0.02794300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:48 == 0.07113000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:48 == 0.08881400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:48 == 0.59393200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:48 == 0.63545900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:48 == 0.65204100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:49 == 0.13331200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:49 == 0.17339600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:49 == 0.19162700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:49 == 0.67698500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:49 == 0.71927400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:49 == 0.73730500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:50 == 0.19474900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:50 == 0.23605500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:50 == 0.25380100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:50 == 0.68963500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:50 == 0.73073300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:50 == 0.74893000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:51 == 0.23046100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:51 == 0.27137700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:51 == 0.28763800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:51 == 0.81211100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:51 == 0.83778900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:51 == 0.84918700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:52 == 0.46259100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:52 == 0.50415400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:52 == 0.51872400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:53 == 0.15046700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:53 == 0.19011600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:53 == 0.20738000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:53 == 0.80691700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:53 == 0.84893000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:53 == 0.86542000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:54 == 0.38942000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:54 == 0.43237000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:54 == 0.45146000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:55 == 0.17754100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:55 == 0.21801800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:55 == 0.22881400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:56 == 0.02005000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:56 == 0.06169100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:56 == 0.07926700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:57 == 0.63696300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:57 == 0.67971300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:57 == 0.69764000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:58 == 0.18099900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:58 == 0.22248800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:58 == 0.23977800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:58 == 0.61140900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:58 == 0.65310900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:58 == 0.67028100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:59 == 0.12018200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:59 == 0.16448000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:59 == 0.18448800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:59 == 0.65431500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:34:59 == 0.69711100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:34:59 == 0.71530100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:35:00 == 0.19812100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:35:00 == 0.22722200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:35:00 == 0.23614000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:35:00 == 0.49764500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:35:00 == 0.54062400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:35:00 == 0.55974700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:36:28 == 0.82763800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:36:28 == 0.87199600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:36:28 == 0.89158300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:00 == 0.67784800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:00 == 0.71959700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:00 == 0.73975600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:02 == 0.16987600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:02 == 0.21085400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:02 == 0.22813000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:03 == 0.80311700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:03 == 0.84494400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:03 == 0.86310000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:04 == 0.41761500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:04 == 0.45831400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:04 == 0.47171900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:04 == 0.88305800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:04 == 0.92514800 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:04 == 0.94297400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:05 == 0.27144800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:05 == 0.31325200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:05 == 0.33140500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:05 == 0.61858500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:05 == 0.66225100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:05 == 0.68087400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:06 == 0.09147200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:06 == 0.13265600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:06 == 0.15228800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:06 == 0.49309600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:06 == 0.53693300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:06 == 0.55481100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:06 == 0.75090900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:06 == 0.77730400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:06 == 0.78793900 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:07 == 0.15628600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:07 == 0.19755700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:07 == 0.21604200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:07 == 0.58666700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:07 == 0.62846200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:07 == 0.64552800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:08 == 0.99936700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:09 == 0.04171200 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:09 == 0.05918100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:09 == 0.57540500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:09 == 0.61866500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:09 == 0.63779300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:10 == 0.06559300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:10 == 0.09603700 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:10 == 0.10693600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:10 == 0.52913800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:10 == 0.57119900 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:10 == 0.59006100 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:10 == 0.92367800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:10 == 0.96646300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:10 == 0.97846200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:14 == 0.71259300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:14 == 0.76054100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:14 == 0.77507700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:15 == 0.65870600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:15 == 0.69993100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:15 == 0.71774300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:16 == 0.07088800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:16 == 0.11443300 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:16 == 0.13183800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:16 == 0.48733900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:16 == 0.51518600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:16 == 0.52705300 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:16 == 0.92391300 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:16 == 0.96701500 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:16 == 0.98531400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:17 == 0.41282500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:17 == 0.45567400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:17 == 0.47723500 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:17 == 0.85852600 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:17 == 0.90337000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:17 == 0.92076000 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:18 == 0.31209200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:18 == 0.35547400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:18 == 0.37366200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:18 == 0.80505000 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:18 == 0.85033600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:18 == 0.86821400 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:19 == 0.32366200 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:19 == 0.36542000 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:19 == 0.38569600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:19 == 0.97147500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:20 == 0.01429400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:20 == 0.03157200 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:20 == 0.67668800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:20 == 0.72351100 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:20 == 0.74238700 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:21 == 0.10911900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 15:37:21 == 0.15025400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 15:37:21 == 0.16891800 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 16:15:53 == 0.30410700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 16:15:53 == 0.34767400 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 16:15:53 == 0.36738600 == Leaving {"Controller":"user","Action":"list_user"}
+
+2014-12-18 16:22:15 == 0.85245800 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 16:22:15 == 0.89784200 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:22:15 == 0.91624800 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:27:47 == 0.52480100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 16:27:47 == 0.64212900 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:27:47 == 0.67035500 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:28:00 == 0.09353100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 16:28:00 == 0.16691000 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:28:00 == 0.18248000 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:28:38 == 0.65915100 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 16:28:38 == 0.70462000 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:28:38 == 0.71953500 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:30:57 == 0.98796900 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 16:30:58 == 0.03191900 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:30:58 == 0.04749500 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:31:14 == 0.52317700 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 16:31:14 == 0.56423900 == Post Constructor {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:31:14 == 0.57832000 == Leaving {"Controller":"user","Action":"manage_user"}
+
+2014-12-18 16:31:29 == 0.25498500 == Entering {"Controller":null,"Action":null}
+
+2014-12-18 16:31:29 == 0.29532600 == Post Constructor {"Controller":"user","Action":"list_user"}
+
+2014-12-18 16:31:29 == 0.31563300 == Leaving {"Controller":"user","Action":"list_user"}

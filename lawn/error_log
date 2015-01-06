@@ -1,0 +1,5 @@
+[05-Jan-2015 18:30:53 Asia/Calcutta] PHP Fatal error:  Call to a member function get() on a non-object in /home/sujit510/public_html/bookmylawn/system/libraries/Cache/drivers/Cache_memcached.php on line 50
+[06-Jan-2015 11:01:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'main2' (T_STRING) in /home/sujit510/public_html/bookmylawn/application/config/database.php on line 53
+[06-Jan-2015 11:02:07 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on a non-object in /home/sujit510/public_html/bookmylawn/application/models/common_model.php on line 11
+[06-Jan-2015 11:04:10 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on a non-object in /home/sujit510/public_html/bookmylawn/application/models/common_model.php on line 11
+[06-Jan-2015 11:09:30 Asia/Calcutta] PHP Fatal error:  Call to a member function result() on a non-object in /home/sujit510/public_html/bookmylawn/application/models/admin/user_model.php on line 14
